@@ -1,0 +1,26 @@
+body {
+    background-color: #f4f8f2;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+}
+h1 {
+    color: #2f5d3a;
+    text-align: center;
+}
+h2 {
+    color: #477a52
+}
+p {
+    line-height: 1.6;
+}
+li {
+    margin-bottom: 8px;
+}
+a {
+    color: #2f5d3a;
+    font-weight: bold;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
